@@ -2,7 +2,7 @@
 
 name: "This repo has x stars y forks action"
 description: 'Update repository description to "This repo has x stars y forks".'
-author: "Yufan You"
+author: "Tim232"
 
 inputs:
   token:
